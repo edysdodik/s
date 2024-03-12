@@ -1,0 +1,22 @@
+{
+  "config": 
+    {
+      "menu1": "https://github.com/edysdodik/s/raw/main/dua.json",
+      "menu2": "https://github.com/edysdodik/s/raw/main/7.json",
+      "menu3": "https://github.com/edysdodik/s/raw/main/dua.json",
+      "menu4": "https://github.com/edysdodik/s/raw/main/dua.json",
+      "countinter": "4",
+      "adactive": "admob,facebook,startapp,none",
+      "adbackup": "none,facebook,admob,startapp",
+      "admobopenapp": "ca-app-pub-3940256099942544/9257395921",
+      "admobbanner": "ca-app-pub-3940256099942544/6300978111",
+      "admobinter": "ca-app-pub-3940256099942544/1033173712",
+      "fbbanner": "YOUR_PLACEMENT_ID",
+      "fbinter": "YOUR_PLACEMENT_ID",
+      "emailcontact": "emailmu@gmail.com",
+      "privacypolicy": "https://sites.google.com/view/rsbprivpol",
+      "termofservice": "https://sites.google.com/view/rsbprivpol",
+      "about": "Tulis <b>tentang app ini</b> format HTML, </br>tulis tentang app ini format HTML</br></br></br>tulis tentang app ini format HTML",
+      "linksuspend": "null"
+    }
+}
