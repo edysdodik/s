@@ -1,5 +1,5 @@
 {
-  "config": 
+  "config": [
     {
       "menu1": "https://github.com/edysdodik/s/raw/main/dua.json",
       "menu2": "https://github.com/edysdodik/s/raw/main/7.json",
@@ -20,4 +20,5 @@
       "linksuspend": "null",
       "cadangan": "http://linkconfig_cadangan_jika_link_github_utama_tidak_dapat_diakses.json"
     }
+  ]
 }
