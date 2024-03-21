@@ -7,7 +7,7 @@
       "menu4": "https://github.com/edysdodik/s/raw/main/dua.json",
       "countinter": "4",
       "adactive": "admob,facebook,unity,startapp,applovin,none",
-      "adbackup": "unity,facebook,startapp,admob,applovin,random,none",
+      "adbackup": "facebook,unity,startapp,admob,applovin,random,none",
       "admobopenapp": "ca-app-pub-3940256099942544/9257395921",
       "admobbanner": "ca-app-pub-3940256099942544/6300978111",
       "admobinter": "ca-app-pub-3940256099942544/1033173712",
